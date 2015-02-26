@@ -5,4 +5,4 @@
  * @author dao303
  *
  */
-package fr.servicepays;
+package com.servicepays.services.parser;

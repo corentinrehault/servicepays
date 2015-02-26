@@ -10,10 +10,10 @@
     http://cxf.apache.org/schemas/jaxws.xsd">
 
     <jaxws:server 
-        serviceClass="fr.servicepays.services.PaysService" address="/pays"
+        serviceClass="com.servicepays.services.PaysService" address="/pays"
         serviceBean="#pays">
     </jaxws:server>
 
-    <bean id="pays" class="fr.servicepays.services.imp.PaysServiceImpl" />
+    <bean id="pays" class="com.servicepays.services.imp.PaysServiceImpl" />
 
 </beans>

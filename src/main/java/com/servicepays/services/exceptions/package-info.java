@@ -5,4 +5,4 @@
  * @author dao303
  *
  */
-package fr.servicepays.beans;
+package com.servicepays.services.exceptions;

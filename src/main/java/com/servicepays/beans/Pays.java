@@ -1,4 +1,4 @@
-package fr.servicepays.beans;
+package com.servicepays.beans;
 
 public class Pays {
 	
